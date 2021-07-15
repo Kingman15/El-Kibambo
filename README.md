@@ -57,8 +57,8 @@ Cette version est une version beta (de test). Les prochaines versions en cours d
 
 Cette bibliothèque a été mise au point par Michael Kyungu Ilunga, développeur C#.NET (web => ASP.NET, desktop => ..., mobile => Xamarin). Pour tout contact (remarques, suggestions, etc), vous pouvez passez par mes pages Facebook :
 
-    * El Concept : page Facebook de ma start-up en cours de téléchargement (à préférer, d'ailleurs les éventuelles mise à jour de la bibliothèque seront annoncées ici) ;
-    * El Programming : page Facebook où je partage astuces et techniques de programmation [El Programming](https://web.facebook.com/elprogramming)
+    * El Concept : page Facebook de ma start-up en cours de téléchargement (à préférer, d'ailleurs les éventuelles mise à jour de la bibliothèque seront annoncées ici) fb.me/elconcept15 ;
+    * El Programming : page Facebook où je partage astuces et techniques de programmation https://web.facebook.com/elprogramming
     * Kingman Prod : ma page Facebook de divertissement.
 
 Ou directement par mon numéro de contact : +243 97 37 19 693, ou par mon adresse e-mail : michaelkyunguilunga15@gmail.com

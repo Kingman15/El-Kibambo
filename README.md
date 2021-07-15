@@ -18,12 +18,12 @@ Après ajout de la bibliothèque comme référence, il suffit d'instancier une v
         - Le nom de type qui sera affiché dans la grille de recherche.
 
     - La fonction de rappel qui sera appelé à chaque fois qu'une ligne n'a pas satisfait la condition. Elle doit être de la forme :
-
+```
         void NomFonction(DataGridViewRow row)
         {
             // .....
         }
-
+```
 Un exemple d'instanciation :
 
     var kibambo = new Kibambo(

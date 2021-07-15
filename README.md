@@ -63,7 +63,9 @@ Cette bibliothèque a été mise au point par Michael Kyungu Ilunga, développeu
 
 Ou directement par mon numéro de contact : +243 97 37 19 693, ou par mon adresse e-mail : michaelkyunguilunga15@gmail.com
 
-=> Cette documentation est accompagnée de deux tutoriels : une version où les données proviennent de la base de données et l'autre où les données sont écrits en dur dans le code.
+=> Cette documentation est accompagnée de deux tutoriels : 
+- une version où les données proviennent de la base de données https://youtu.be/o1xzMwGrtUw
+- et l'autre où les données sont écrits en dur dans le code https://youtu.be/7QnTq45FQGA
 => Les codes présentés peuvent être traduits aisement dans un autre langage de programmation .NET comme VB.NET.
 
 © El Concept - Tous droit réservés
